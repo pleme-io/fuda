@@ -22,10 +22,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "fuda",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "kakitori",
@@ -124,10 +121,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "kakitori",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "nvim_oxi",
@@ -190,10 +184,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "kigi",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "nvim_oxi",
@@ -279,10 +270,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "libc",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -304,10 +292,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "nvim_oxi",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "api",
@@ -455,10 +440,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "nvim_oxi_api",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "luajit",
@@ -615,10 +597,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "nvim_oxi_luajit",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "thiserror",
@@ -660,10 +639,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "nvim_oxi_macros",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -752,10 +728,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "nvim_oxi_types",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "libc",
@@ -861,10 +834,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "once_cell",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -884,10 +854,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "pin_project_lite",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -910,10 +877,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "proc_macro2",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "unicode_ident",
@@ -963,10 +927,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "quote",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1018,10 +979,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "serde",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "serde_core",
@@ -1086,10 +1044,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "serde_core",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -1111,10 +1066,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "serde_derive",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1213,10 +1165,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "serde_repr",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1309,10 +1258,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "syn",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1399,10 +1345,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "tane",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "nvim_oxi",
@@ -1510,10 +1453,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "thiserror",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "thiserror_impl",
@@ -1560,10 +1500,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "thiserror_impl",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1651,10 +1588,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "tracing",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "pin_project_lite",
@@ -1749,10 +1683,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "tracing_attributes",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -1854,10 +1785,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "tracing_core",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "once_cell",
@@ -1897,10 +1825,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "unicode_ident",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
