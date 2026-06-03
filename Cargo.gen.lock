@@ -920,9 +920,9 @@
     }
   },
   "git_nar_sha256": {
-    "kakitori-0.1.0": "sha256-t5dMxrnb5jjZT0eTDgdJ0q/5B2uLR2vcZyMjKK0lgXM=",
-    "kigi-0.1.0": "sha256-oA99v78sNVppNWpwZg8/oeQqYiEV+Pl2S1aoCt8Gib8=",
-    "tane-0.1.0": "sha256-Va5xgILTX9CDnfIqLGKPpgeoTHGiPjmwpoz3TQUvhrw="
+    "kakitori-0.1.0": "sha256-gXEAkZdHvLQ6bcqO17gJmKR52dSWkFMIAuJAOijuUWg=",
+    "kigi-0.1.0": "sha256-qHPWQF9kzfZ9cq4ogJSxYWVpSFqAlLBh4/85KnALZtQ=",
+    "tane-0.1.0": "sha256-m1bKZTU6iOF0tn4MkCd3QM1QXe6/lNGDSJ95khONvJg="
   },
   "flake_metadata": {}
 }
